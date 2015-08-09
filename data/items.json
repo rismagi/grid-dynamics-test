@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Адаптер для бинокля",
+        "description": "Штативный адаптер Veber для бинокля",
+        "description_full": "Размер упаковки (ВхШхД), см: 12 x 6 x 5 см, вес 0.1 кг",
+        "picture_small": "small/1.jpg",
+        "picture": "big/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Оптический прицел Veber",
+        "description": "Оптический прицел Veber ПО 4x20",
+        "description_full": "Размер упаковки (ВхШхД), см: 6 x 30 x 4 см, вес 0.2 кг",
+        "picture_small": "small/2.jpg",
+        "picture": "big/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Моноблок для прицела Veber",
+        "description": "Моноблок для прицела Veber 2511 В на ласточкин хвост",
+        "description_full": "Размер упаковки (ВхШхД), см: 8 x 4 x 4 см, вес 0.11 кг",
+        "picture_small": "small/3.jpg",
+        "picture": "big/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Набор образцов минер. камней",
+        "description": "Набор образцов минеральных камней (12 шт.)",
+        "description_full": "Набор образцов минеральный камней для исследования в общеобразовательном учреждении или в домашних условиях.",
+        "picture_small": "small/4.jpg",
+        "picture": "big/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Микроскоп Микромед MP- 450 ",
+        "description": "Микроскоп Микромед MP- 450",
+        "description_full": "Размер упаковки (ВхШхД), см: 25 x 21 x 7 см, вес 0.31 кг",
+        "picture_small": "small/5.jpg",
+        "picture": "big/5.jpg"
+    }
+]
